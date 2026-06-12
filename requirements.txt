@@ -1,7 +1,8 @@
-streamlit==1.30.0
+streamlit>=1.30.0
 pandas
 numpy
 scikit-learn
 joblib
+pillow>=11.0.0
 # xgboost optional - not required for fallback pipeline
 # xgboost
