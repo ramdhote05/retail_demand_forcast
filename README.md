@@ -2,6 +2,8 @@
 
 This project includes a demand forecasting notebook and a Streamlit app for interactive prediction.
 
+- Live app: https://retaildemandforcast-8n93ffusdy4aqxthebxsta.streamlit.app/
+
 ## Files
 
 - `fyr.ipynb`: Jupyter notebook with data loading, feature engineering, model comparison, and forecasting.
